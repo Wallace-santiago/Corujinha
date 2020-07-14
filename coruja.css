@@ -1,0 +1,243 @@
+header {
+
+	background: #FB95F5;
+	padding: 20px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 0 0 15%;
+	}
+
+#logo {
+
+	width: 25%;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 35px;
+	font-family: cursive;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #7B2475;
+	font-weight: bold;
+	font-size: 40px;
+	text-decoration: none;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+nav a:hover {
+	color: #30012D;
+	text-decoration: underline;
+}
+
+footer {
+	text-align: center;
+	background: #FB95F5;
+	padding: 40px 0;
+	
+}
+
+.instagram{
+
+	font-size: 40px;
+	font-family: cursive;
+	text-decoration: none;
+
+}
+
+.instagram:hover {
+
+	color: #30012D;
+	text-decoration: underline;
+	font-size: 50px;
+}
+
+#logo2{
+
+	
+	width: 25%;
+	margin-top: 45px;
+	
+	
+
+
+}
+
+.copyright {
+	color: #ffffff;
+	font-size: 13px;
+	margin: 40px 0 0;
+}
+
+/* Página conteudo */
+main {
+
+	background: #F6C2F3;
+
+}
+.produtos {
+	background: #F6C2F3;
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.produtos li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px 5px black;
+}
+
+.produtos li:hover {
+	border-color: #C78C19;
+}
+
+.produtos li:active {
+	border-color: #088C19;	
+}
+
+.produtos li:hover h2 {
+	font-size: 34px;
+}
+
+.produtos h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.produto-descricao {
+	font-size: 18px;
+	font-family: cursive;
+}
+
+.produto-preço {
+	font-size: 32px;
+	font-weight: bold;
+	margin-top: 25px;
+}
+
+.imagem {
+
+	width: 100%;
+
+}
+
+.cadastro1 {
+
+	font-size: 24px;
+	font-family: cursive;
+	font-weight: bold;
+	margin-top: 25px;
+}
+
+.cadastro2 {
+
+	font-size: 18px;
+	font-family: cursive;
+	font-weight: bold;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.cadastro3 {
+
+	font-size: 18px;
+	font-family: cursive;
+	font-weight: bold;
+	margin: 0 0 0 35px;
+}
+
+.cadastro3  {
+
+	
+	display: inline;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 90px 50px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 30px;
+	box-shadow: 10px 10px 10px 5px black;
+	
+	
+
+}
+
+.enviar {
+margin-inline-start: 47%;
+margin-top: 25px;
+	display: block;
+	font-family: cursive;
+	font-weight: bold;
+	font-size: 18px;
+	
+}
+
+/*contato*/
+
+.contato {
+	font-size: 24px;
+	font-family: cursive;
+	font-weight: bold;
+	margin: 0 35px 25px 35px;
+	text-decoration: underline;
+	
+}
+
+.email {
+
+	text-decoration: none;
+	font-size: 15px;
+	font-family: cursive;
+	font-weight: bold;
+	color: #000000;
+	margin: 35px 35px 25px 35px;
+	padding-top: 25px;
+}
+
+.telefone{
+
+	text-decoration: none;
+	font-size: 15px;
+	font-family: cursive;
+	font-weight: bold;
+	color: #000000;
+	margin: 0 35px 25px 35px;
+	padding-top: 25px;
+
+}
+
+.whatsapp{
+
+	text-decoration: none;
+	font-size: 15px;
+	font-family: cursive;
+	font-weight: bold;
+	color: #000000;
+	margin-top: 25px;
+	margin: 0 35px 25px 35px;
+
+}
+
